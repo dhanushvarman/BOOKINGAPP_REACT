@@ -6,7 +6,6 @@ import { config } from "./config.js"
 function Availablerooms() {
 
     const [rooms, setRooms] = useState([]);
-    const [status, setStatus] = useState()
 
     useEffect(() => {
         const fetchData = async () => {
