@@ -19,6 +19,8 @@ function Availablerooms() {
         fetchData();
     }, [])
 
+    console.log(rooms)
+
     return (
         <div className='container'>
             <h3 className='text-center mt-4 p-2' style={{ backgroundColor: "grey", color: "whitesmoke" }}>Available Rooms</h3>
