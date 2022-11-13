@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.card-txt{
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bolder;
+  font-size: larger;
+  color: royalblue;
+}
+
+.text{
+  color: crimson;
+  font-weight: bold;
+  font-family:Arial, Helvetica, sans-serif
+}
+
+.error-box{
+  border: 3px solid red !important;
+}
+
+.success-box{
+  border: 3px solid lightgreen !important;
+}
