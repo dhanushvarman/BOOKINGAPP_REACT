@@ -36,21 +36,21 @@ function Sidebar() {
 
             <li class="nav-item">
                 <Link to={"/bookedrooms"} class="nav-link">
-                    <i class="fa-solid fa-bed"></i>
+                <i class="fa-solid fa-calendar-days"></i>
                     <span>Booked Rooms</span>
                 </Link>
             </li>
 
             <li class="nav-item">
                 <Link to={"/customerDetails"} class="nav-link">
-                    <i class="fa-solid fa-bed"></i>
+                <i class="fa-solid fa-users"></i>
                     <span>Customer Details</span>
                 </Link>
             </li>
 
             <li class="nav-item">
                 <Link to={"/createrooms"} class="nav-link">
-                    <i class="fa-solid fa-bed"></i>
+                <i class="fa-solid fa-circle-plus"></i>
                     <span>Create Rooms</span>
                 </Link>
             </li>
