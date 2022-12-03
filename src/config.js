@@ -1,4 +1,4 @@
 export const config = {
     // api : "http://localhost:3003"
-    api : "https://hotelroombooking-app.herokuapp.com"
+    api : "https://room-booking-site.onrender.com"
 }
