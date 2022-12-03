@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import axios from 'axios'
 import { config } from "./config.js"
 
-function Customerdetails() {
+function CustomerDetails() {
 
     const [booked,setbooked] = useState([])
 
@@ -50,4 +50,4 @@ function Customerdetails() {
     )
 }
 
-export default Customerdetails
+export default CustomerDetails
