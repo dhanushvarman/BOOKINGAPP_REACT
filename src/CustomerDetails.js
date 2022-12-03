@@ -32,7 +32,7 @@ function Customerdetails() {
                                 <div class="card-body">
                                     <p className='text'><b class="card-txt">HOTEL NAME : </b>{rooms.hotelname}</p>
                                     <p class="text mb-2"><b class="card-txt">ROOM NAME : </b>{rooms.roomname}</p>
-                                    <p className='text mb-2'><b class="card-txt">AMENITES : </b>{rooms.amenities.join(" ,")}.</p>
+                                    <p className='text mb-2'><b class="card-txt">AMENITES : </b>{rooms.amenities}.</p>
                                     <p class="text mb-2"><b class="card-txt">BOOKED STATUS : </b>{rooms.status}</p>
                                     <p class="text mb-2"><b class="card-txt">CUSTOMER NAME : </b>{rooms.customername}</p>
                                     <p class="text mb-2"><b class="card-txt">DATE : </b>{rooms.date}</p>

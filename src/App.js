@@ -8,7 +8,7 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Availablerooms from './Availablerooms';
 import Booking from './Booking';
 import Bookedrooms from './Bookedrooms';
-import CustomerDetails from './CustomerDetails';
+import CustomerDetails from './Customerdetails';
 import Createrooms from './Createrooms';
 
 
