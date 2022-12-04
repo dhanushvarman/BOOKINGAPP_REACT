@@ -1,4 +1,4 @@
 export const config = {
-    // api : "http://localhost:3003"
-    api : "https://room-booking-site.onrender.com"
+    api : "https://puzzled-pear-mittens.cyclic.app"
+    // api : "https://room-booking-site.onrender.com"
 }
